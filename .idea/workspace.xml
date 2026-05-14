@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="420f9868-8c4f-4b82-a90f-1199b6ea60b1" name="Changes" comment=".">
+    <list default="true" id="420f9868-8c4f-4b82-a90f-1199b6ea60b1" name="Changes" comment=".f">
+      <change afterPath="$PROJECT_DIR$/agenti.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/patstavigaisDarbs.py" beforeDir="false" afterPath="$PROJECT_DIR$/patstavigaisDarbs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Faili.py" beforeDir="false" afterPath="$PROJECT_DIR$/Faili.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,14 +45,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.patstavigaisDarbs.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Faili.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.patstavigaisDarbs.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Programmesana/Documents/EduardsParadniks/PyCharm"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Programmesana\Documents\EduardsParadniks\API_darbs_pycharm\API_atkartosana" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -76,11 +84,28 @@
       <option name="project" value="LOCAL" />
       <updated>1778657311608</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=".f">
+      <option name="closed" value="true" />
+      <created>1778741717309</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1778741717309</updated>
+    </task>
+    <task id="LOCAL-00003" summary=".f">
+      <option name="closed" value="true" />
+      <created>1778741737646</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1778741737646</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value=".f" />
+    <option name="LAST_COMMIT_MESSAGE" value=".f" />
   </component>
 </project>
